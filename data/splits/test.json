@@ -1,0 +1,162 @@
+[
+  {
+    "file": "data\\processed\\canola\\canola_16.npy",
+    "class": "canola",
+    "label": 0
+  },
+  {
+    "file": "data\\processed\\canola\\canola_17.npy",
+    "class": "canola",
+    "label": 0
+  },
+  {
+    "file": "data\\processed\\canola\\canola_1.npy",
+    "class": "canola",
+    "label": 0
+  },
+  {
+    "file": "data\\processed\\canola\\canola_12.npy",
+    "class": "canola",
+    "label": 0
+  },
+  {
+    "file": "data\\processed\\kochia\\kochia_3.npy",
+    "class": "kochia",
+    "label": 1
+  },
+  {
+    "file": "data\\processed\\kochia\\kochia_9.npy",
+    "class": "kochia",
+    "label": 1
+  },
+  {
+    "file": "data\\processed\\kochia\\kochia_15.npy",
+    "class": "kochia",
+    "label": 1
+  },
+  {
+    "file": "data\\processed\\kochia\\kochia_7.npy",
+    "class": "kochia",
+    "label": 1
+  },
+  {
+    "file": "data\\processed\\sugarbeet\\sugarbeet_17.npy",
+    "class": "sugarbeet",
+    "label": 2
+  },
+  {
+    "file": "data\\processed\\sugarbeet\\sugarbeet_8.npy",
+    "class": "sugarbeet",
+    "label": 2
+  },
+  {
+    "file": "data\\processed\\sugarbeet\\sugarbeet_2.npy",
+    "class": "sugarbeet",
+    "label": 2
+  },
+  {
+    "file": "data\\processed\\sugarbeet\\sugarbeet_12.npy",
+    "class": "sugarbeet",
+    "label": 2
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_31.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_15.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_7.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_14.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_26.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_22.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_11.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\redroot_pigweed\\redroot_pigweed_13.npy",
+    "class": "redroot_pigweed",
+    "label": 3
+  },
+  {
+    "file": "data\\processed\\ragweed\\ragweed_9.npy",
+    "class": "ragweed",
+    "label": 4
+  },
+  {
+    "file": "data\\processed\\ragweed\\ragweed_19.npy",
+    "class": "ragweed",
+    "label": 4
+  },
+  {
+    "file": "data\\processed\\ragweed\\ragweed_8.npy",
+    "class": "ragweed",
+    "label": 4
+  },
+  {
+    "file": "data\\processed\\ragweed\\ragweed_15.npy",
+    "class": "ragweed",
+    "label": 4
+  },
+  {
+    "file": "data\\processed\\waterhemp\\waterhemp_11.npy",
+    "class": "waterhemp",
+    "label": 5
+  },
+  {
+    "file": "data\\processed\\waterhemp\\waterhemp_5.npy",
+    "class": "waterhemp",
+    "label": 5
+  },
+  {
+    "file": "data\\processed\\waterhemp\\waterhemp_6.npy",
+    "class": "waterhemp",
+    "label": 5
+  },
+  {
+    "file": "data\\processed\\waterhemp\\waterhemp_13.npy",
+    "class": "waterhemp",
+    "label": 5
+  },
+  {
+    "file": "data\\processed\\soybean\\soybean_19.npy",
+    "class": "soybean",
+    "label": 6
+  },
+  {
+    "file": "data\\processed\\soybean\\soybean_17.npy",
+    "class": "soybean",
+    "label": 6
+  },
+  {
+    "file": "data\\processed\\soybean\\soybean_7.npy",
+    "class": "soybean",
+    "label": 6
+  },
+  {
+    "file": "data\\processed\\soybean\\soybean_12.npy",
+    "class": "soybean",
+    "label": 6
+  }
+]
